@@ -1,12 +1,9 @@
-This folder contains the course work for a java datastructure class.
+Course work projects for a data structure and algorithm class in Java.
 
-Some material included are:
+Project 1 Sudoku Validator - Object oriented programming to validate Sudoku solution, includes core concepts of OOP (polymorphism, Inheritance, Abstraction, Encapsulation).
 
-- java(inheritance, polymorphism, abstraction, interface)
-- stack
-- queue
-- map
-- linkedlist
-- trees
-- tree traversal
-- sorting and searching
+Project 2 Bird Maze - Maze traversal using iterative and recursive implementation, data structure includes stacks and queues.
+
+Project 3 Sorting and Searching - Implentation of common sorting and searching algorithms, including analysis.
+
+Project 4 AVL Tree - Implementation of AVL Tree, including self balancing
