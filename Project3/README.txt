@@ -1,0 +1,1 @@
+This project works work several sorting algorithms such as merge sort, quick sort, bubble sort, insertion sort, and selection sort. Along with linear searching and binary searching. merge sort, quick sort, and bubble sort were implemented in different ways while keeping track of performance in order to study the differences in sorting algorithm and their strength and weaknesses. 

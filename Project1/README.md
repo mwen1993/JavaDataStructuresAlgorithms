@@ -1,0 +1,1 @@
+This is a project that reads a completed Sudoku puzzle from a text file and process itinto an Sudoku puzzle object. The puzzle consist of cells and each cell is an object that holds an integer value. The project consist of object oriented programming along with several data structures and iterations.  

@@ -1,0 +1,8 @@
+romeo1 delta1 hotel1 tango1 juliet1 alpha1
+victor echo lima sierra xray foxtrot charlie
+uniform1 november1 mike1 kilo1 bravo1 oscar1 
+foxtrot charlie lima sierra victor echo xray 
+whiskey1 papa1 quebec1 yankee1 zulu1 india1 golf1 
+delta romeo juliet alpha hotel tango
+uniform november mike kilo bravo oscar 
+yankee1 zulu1 india1 golf1 whiskey1 papa1 quebec1  
